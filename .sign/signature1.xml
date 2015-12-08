@@ -1,0 +1,796 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="DistributorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI=".sass-cache%2F5ff73ca7c3ff3bca889a377a0836ceaf17d71ab7%2F_core.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AI+9qaGqWdLr/pWUSBlXU5qTiHeffin1WQlSxIeu0mc=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2F5ff73ca7c3ff3bca889a377a0836ceaf17d71ab7%2F_icons.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A82MaeV2z8IsjHtMt7PvQtg/REGU+5F0WjVTckNlZKs=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2F5ff73ca7c3ff3bca889a377a0836ceaf17d71ab7%2F_path.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2kmIi+czFx8TXTDs0FaQH4cL++P196Q6CBXCimcGXW8=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2F5ff73ca7c3ff3bca889a377a0836ceaf17d71ab7%2F_variables.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jRKsxByD5zRkIYAuIaZ3IYpHdawzH9v1tAHa7ojm3P4=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_background.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ysYHUSP7LoqEKIA+nLLL2zfv6opDFSjYNMATY4yOg/E=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_box-shadow.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HzIwRllqtzzJ4wDTc0M2Gasykj4yESUwAJvp6/d4GKc=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_color.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WgSDibZQld8fJS+3kzTGd6XXici0D46KpiGQ6scvwpc=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_flexbox.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WWows5WD5bxGd1WRAvkXoRWDrbvMs70y/ZzhJc30OsE=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_font-color.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>X+5dLv4HYbUd45vcrME8NEkv6mmM3P+xViaf3ntFSoY=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_font-roboto.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0FTCmz6XRct2+47M64ABseNyMuk34PaEIAR8ilQ6auA=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_mixins.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+fSikFOb/YFBsuaFRA8QHjDj4IujwGUBrGO0lo5rZOY=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_normalize.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0iJugW+iCx7Eu4x0RDo2TNnT1dXYciLQRM4NRrBJSNU=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_paper.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oWy2EB02LnWn0GxGifzZ0iuEioEMtECVFVMJxliHFAA=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_position.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C5ACpiJbvFn9KNi4tFkbwU1dWtd+vnH7fECYw1EzCYA=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_ripple.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gX9bkQ6d6QChVdnBRI3o5IZ8ATiJTQ+XnVLBu1/cTmI=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_theme.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jL6+hAJvjoYhDs//0zN9yZ0VmVkojE6NXu3Pz7MCE5E=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_typography.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TKOANEZrcPRlUe/TPWJsnb0F4SYki8LZwGjAg8L3VWA=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2F_ui.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2NY1qBnjJSenrZIKpuzKE1nD9semGMeZGYlT4uH/YPo=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2Fmaterialdesignicons.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tBbIiRpqnbXzsDhmUAvkms5zyBz1NLmxFdzWg+GxjaE=</DigestValue>
+</Reference>
+<Reference URI=".sass-cache%2Fa362f94b0a83f19846d341f501ff367da59e1a64%2Fsmartwatch.scssc">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8VDOowD9RKPWE/giQ+hLeorvafU1t7ZwNTjhSksMIK4=</DigestValue>
+</Reference>
+<Reference URI="author-signature.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Pw+x85riZv1uCQ0wgDIpFonm06acN7vue0ZaRu2EIxw=</DigestValue>
+</Reference>
+<Reference URI="config.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>n7GiulDxaMLyIa6rqRS5Zqp/Obhb5+ZsXdaGLlZ9l5k=</DigestValue>
+</Reference>
+<Reference URI="css%2Fmaterialdesignicons.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Caco4Aqi6XJ/P1CGzMYWcAyhNLVtz82xn0zS3GTECLU=</DigestValue>
+</Reference>
+<Reference URI="css%2Fmaterialdesignicons.css.map">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PTsmxL0iHDELmfDFQVIBhI7wcOpKMjghiRtxI8tDf1I=</DigestValue>
+</Reference>
+<Reference URI="css%2Fsmartwatch.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9RpwbqZJVa2MbJh30qx374WqWMmBsGd70/vc07L1iRE=</DigestValue>
+</Reference>
+<Reference URI="css%2Fsmartwatch.css.map">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u1qvuq2XqR9shq+YjSkOED8vvamCDO7pZtgKWmTbh/8=</DigestValue>
+</Reference>
+<Reference URI="css%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0/mhZV4kwFnSzCSp45AhFjWaQnaie61uW8VeXioOLQg=</DigestValue>
+</Reference>
+<Reference URI="css%2Fswiper.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LI1p5H4aQs6URdBKLsuY5WRjOMZLOIc1KyoYTWMOMq4=</DigestValue>
+</Reference>
+<Reference URI="css%2Fswiper.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QFMqwBVel7/pmSgIje59zZ4JzP3by2ZKsdcYF2d2OW0=</DigestValue>
+</Reference>
+<Reference URI="docare.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/JYLmkBxgFWzx4ynjFBtlt+tjBml2uF9o4akQlysNzU=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Fmaterialdesignicons-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eWXnGoCsziGtaeWXYL5rLqtflyqpF/pV3IyyVf703zo=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Fmaterialdesignicons-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JBAV4dDPcVDrau7a/0Jcg/WuJSpF2U4t856d/ZruWSQ=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Fmaterialdesignicons-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pC7c847Yl2Cd5AUAALmnKFZpjmLV4EcrhYXf2JRQmDY=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Fmaterialdesignicons-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>v0U7CZVbmd3vZX0r1KVvHfKBYaGmpYsmamkq/Gop0HA=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Fmaterialdesignicons-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uGREeKInIOa9zEk6PpNurWSk75gkljyv3RN2FeU6E1o=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-black-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dwvCKYxjAIcssasNPy9lZGjfA31iUR3ZXTXLNcGEos4=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-black-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dhxU7zgD4sjrv/1oyKyYSoSO9Lnw1gfkUIFkmpIaVoE=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-black-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6CBzQdlw55dm6gcYtvXNejhiLd880AY+jAUHkyg7hIU=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-black-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MsUQnASkVzQRNMMIoWR0GTHobj1siycAT9rgQOU1Zpg=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-black-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qxbup/W4KWsfBfaBJGmnFzEDdljfq1kESOVplPsdSTM=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-blackitalic-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UuJI9mKGsLDXWxj3dztg75v4iht0VNKT5hr6H15qDjc=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-blackitalic-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g0UsgObke9j9ntiMkGZ6ZLSxZ/fhNzdYpk5UbI5B4tc=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-blackitalic-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>btGgO741BTGQxIVl0mmHhj5Wtp44pu2LcXv7uhHiB2Q=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-blackitalic-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>geIWiZOSyFxKP90+KgDtoSuxeXEQriGh9bWa0sBCUpA=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-blackitalic-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>416litA6xuS5GZ8tnHNMtZ4KYli0VC51l6PZGLn0yPQ=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-bold-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yr1zbfjm5br43YVfa4RWkxXx9oNLJ3qbEaRQjHb9j04=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-bold-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XDojbQTJXFPMM45lthGKGu6r1e47toChOjBk9yJyEe4=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-bold-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ygf9EIoeSvc/6axQIQFxeM2bgoLi3LDgYFKUNVeyM08=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-bold-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wKRzsRTlv/rokrMYhbwD2BjYNWLFoAYwDiXWcR8DZJo=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-bold-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XlHfffECGF64jUnPRMUjulugiesxr9wYZpB2oSyyaos=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-bolditalic-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>j7x1zobg/5oRMnpML566ptTSinorepQQIniojeDQ+lI=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-bolditalic-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XXl3yQqFcjsBn9cHazEZu5A7RdcQlU4TG/zWCw3H6rE=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-bolditalic-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A5fNpZgb9xpkCdYoOi2+y75gZdFgM9HJT/vS2uSo/f0=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-bolditalic-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VghUTaQp141n3/GcCwg6QGauPXtVDLFFGahTnUVAk0E=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-bolditalic-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PUOEyc6D+3zcEuKkuZfTjslIVuWN5J1xr1p0VEYa5Ng=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-italic-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iuz8Usb0GR9uwJXtz6SQ4BkgcQFPohq6vLUP/2o1dPU=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-italic-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>R2FfD86IiuQLSa7FY6d54ez4Al0fPsHBGdPk2hJ7zTA=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-italic-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>57mvZQpe+cJG9YgBvwVintgUxq0dLnKNkfKGmkbPUEY=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-italic-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>n9l2DHrO4WCFF5ctUSwBe0wxDvenhsaUh/LJdsV8FWQ=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-italic-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>avZMEnZbPtHkzZoVDhonv9rPUMXsssM68RsjC94d3nU=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-light-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>m+Df/kLFmfUnBWufquYGEKTeNWlGyWwV1f5CNZboV9E=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-light-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2Gj9lIDgkAhdHihntRXp8oR1c28rRoZybtHv36TOOAM=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-light-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NCAuyd8xRv4fdVrxt9pP3wwlzS3bAfMb6Qf5RZUJ+r4=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-light-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>219TQ5KZnPdc9Mf//TcMJrtJUn2Xa+j+Qz0q786zzSc=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-light-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Lrn1YjBoQIX2mPl3QwV8rHyeLLhz6tWx/J4CNGXlzI8=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-lightitalic-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dgR9WnYdWhXuUPSYkUnZTPV4a9lcY+AfNkdCJL4h7OM=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-lightitalic-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6SgikhtwRPgHrquf5M7te3R63F8xkb787/WSNy8Ulrg=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-lightitalic-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZGh6Htq3ZpBHNOYXg9phPmQxDdbNPdwFmKL6Y9KvGqE=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-lightitalic-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>py91ak70Vf19OEyj7QI+jc6OZXy65aOdpsiyFTeSTWo=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-lightitalic-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Piq3FQ3JrstFD+DvNuW6ZrdEdgkJHegFsmGEhJM47bw=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-medium-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fzF7C4xeHnJD/GeFwm511RSPOst/2qoqDxGaB3x3dAc=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-medium-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>I3RgtgRPEs+e1Fe1CQj7WNw1BPyt07UsqHUNx7gTPlM=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-medium-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Zfg0v9IlaNhT7BJVz8WzMbjgTG4jR44DwR/kO3PzXNM=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-medium-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ns1erstNZEEOpAAgJYTpC8bowYwmWvIsTGmTMIragzE=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-medium-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lf/qhisfEMBygquPTnoy5x+rj5gbNxXjevD9DaCDVX4=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-mediumitalic-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>E1CjLnkjJwOZ/Qqr0eP3Hpn0K4EYszH/xfqI8oPk87k=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-mediumitalic-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BjHex91ojPMMRS023QFESdCZHg+qDRwY4eh6XjIEyFQ=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-mediumitalic-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>60lkOU80PoeredO+UhmzhVEuBqirNHspb/s6Q4IQeuY=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-mediumitalic-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>emBzZNkK/Eoq5sBjliD9JNovvWJngbch1i3GZpvbJBg=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-mediumitalic-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>K+TbRJDx/XPVkQNAhg2IeK5h98cEdNtTI9FsWueFWEE=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-regular-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>y7ZWrRi5+n1nwtbmc3K+G8WST5rZpwhhmjFZfeI86MA=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-regular-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JHqGMDMZmW5pvwcO4WlE6CIN5nAYJRUikZIczMdzuC8=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-regular-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4QGQWIUjROA0bjk+bSva7P9IjvvyYAzZZznopVMVGhI=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-regular-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oeWw3ZzZD+PvPiSuogKBnudGk9YsALrI4/t8g32K2/4=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-regular-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0zJzAmWx/b5amKUBA+zn/NZmi5aAr+v6MQ/Rg6SvDZM=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-thin-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>odNY9sxGb3uORbDH7mC4j6rjfpsI3URXZRXBNxFXtQQ=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-thin-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8FWfpbyMeb80tKff9FlP6NwJXUCjlvOWsg3dI30/Tb8=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-thin-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ivS8Dm8na1oFm5oWmDhaTslbawegqJiy82ETUtdG0tg=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-thin-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MlTmW8GoWYX/uBbG1BfKzQyoh8EA0NIZjPvjjZOD8/0=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-thin-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>odo/9kr9g3vHdQebJmRnMvIdGb/R/ElwqmGFU3SNvjA=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-thinitalic-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KIqA/PfHXVczeb0gQ9FS4ldgQCJN1wyoi+EKnGE+cgY=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-thinitalic-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0U+RJtJuhzPCQkxsaM6FsVUFwGYvZfYVnNwVa0WUxE8=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-thinitalic-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RmA93Kasthbj8Lzgl5TzsjKlcnhdU4eaXeXOrpDeAV8=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-thinitalic-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ufU6HUY0sV8wPWwWQSbBi4tuhmTgmN/uY769dTjlmXI=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Froboto-thinitalic-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7v10hntGkSyaEuxPkaQql14nryULshz3urpqLxJIcfM=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-bold-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tZnPo+PnlDR9DIedB+6qGsxRFrynJuaA9lQ0TIUbNwI=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-bold-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1F3RaGkT9ew9qrgPTqZSDdjMwDaORxClxaP5XQ4ROsg=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-bold-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EpBpxmyifr9LwI04NnIzSORRtnyxXUlYELfFI9ak2lA=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-bold-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>z4Njd/o0seFIV9FSyQT2lr/QdNzqfE+1Yz5YrGhImFM=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-bold-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>E20OiwaMdbSE6XkXQgW7jMA5Ihs3SKMpHhdJfvFneSU=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-bolditalic-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UADXQmxXwV5MkfJU/guf87vQfMBuWG7w96fKdr9QaGI=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-bolditalic-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cI0enouKR+f9t/tcGcC2z/+S5402H+kdRc/0a4HGI2U=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-bolditalic-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hRY27SoaXKMPyR6iimk69zlr5IJrrmDKyNDnnGb0Bbo=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-bolditalic-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D8gcGRgrLANamJ6Za9+MGhyuiKcV4VZl19kDUyF+vOY=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-bolditalic-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>762+nmclcjtT5KhxYemkNxqviwcTub9nnWFB0tWmfnQ=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-italic-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Rkfle9CudScq4fR6ETzFcIj7dm+YCValrNM13Eage+0=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-italic-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>csk19CB+Fjf4X7FV3vjsE6v2aT6AQFBvYFmrNjaFnU4=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-italic-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3HcHfJTV6edoX/yl8Iht7QGgS+zpnr01R+zypmLdkaE=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-italic-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+jev0tmKI4JJ6QWiszqI7GuthR5SG3H017RiQ05fTjM=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-italic-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mmHnDzPz/Wq/5ScmtkZUu7drjefauEVOBY+nx4zyDgQ=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-light-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gvzhIKeCXr6YMCdEEGYuGZr1N4tBBEdhWW+V3dYkO7M=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-light-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lIJ4vT6nfzulHurjtcK8V/ui1s4s7R8uIsArsCmpRr8=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-light-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WCHlkOGUyeN8Mje06R7r5PoDh26rh1GJbaWn4MC5G20=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-light-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DrdZsZKyMi0Sn0zSvlclapNCbug8TSJj/jHRom527fE=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-light-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0BjKPZ5IMRU1HLpK405y7zLVkzuYgC/kLF4OxRrzwtk=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-lightitalic-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PKt/OV26HLnuOvR6Em9QNe48M6Ta5GqtgjqGKWyoyno=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-lightitalic-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1As4ysmX+bCm89Tcg+4YkHXFaWZI50onp7WN+JX+NEI=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-lightitalic-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>scaDx19TjiNdrxychXXI5uTFsjSPU2OFTPYOxTRUzDs=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-lightitalic-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VrXNBowaD9KRmYxMGNY8vzdTlkoiljlbMhfOKqYTsk4=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-lightitalic-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WPt69hKtn6OvImamrvS1nneLr1GS6aJFUb/Mli4ikQM=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-regular-webfont.eot">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xqxGeOwR3Or5i7DIwpID1Z5PG3QmNGqnKrmO95lkxLs=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-regular-webfont.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ttRxBm36VDwpFjhAGQJXU5UhV9EnJRRkG9BIDnWV+ns=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-regular-webfont.ttf">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>61k1l1o2xQX0cpuk3jMDGmr6SGGHT6MFzsal5mXCK/U=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-regular-webfont.woff">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>E5gqPASQDTIRw8NM8Bd4vS00U6jcVKiRKp7FE20XW/U=</DigestValue>
+</Reference>
+<Reference URI="fonts%2Frobotocondensed-regular-webfont.woff2">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tAA3Oz+DK52EO3lwopqzbZy3qzd5OhrrfbGo4ZNT9Iw=</DigestValue>
+</Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vPjxjOppORd6hn9Bw4sh06gqtDoJzoFbV/8e9FyIdvk=</DigestValue>
+</Reference>
+<Reference URI="img%2F14.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2bHIPVQHe/pGXT0X1lBBRe7BXylCwy83PBzxDVx0a9I=</DigestValue>
+</Reference>
+<Reference URI="img%2F15.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>g+tz2DB8Y8pDlNm1j9t5dKW4DmZ0tC8zh3HqqLu3juU=</DigestValue>
+</Reference>
+<Reference URI="img%2F16.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>58M/QZ8qFDCmGq76smxnvyz7PURJwYHO18tZb5xb1mo=</DigestValue>
+</Reference>
+<Reference URI="img%2F17.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UL5VWfHpE8qgfgskwCb3HK8qhVsLOxDVdv9uqj9I55Y=</DigestValue>
+</Reference>
+<Reference URI="img%2F18.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>x2ZRxiMXkONNe9G8m/bPkKN8DXP462TpWJg5M1vqZ5M=</DigestValue>
+</Reference>
+<Reference URI="img%2F19.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vbTBV67tdQcp8OlfrvghOnRQ2ZAZoODRK7WyXj02Qqs=</DigestValue>
+</Reference>
+<Reference URI="img%2Fbirthday-cake.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>15+MhyACB7hABm02D3IIkTCXsVvUfPL/HfMJRM7afR0=</DigestValue>
+</Reference>
+<Reference URI="img%2Fblood.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FG8hbjImhz/2bwH5375JDSqALvYI5NIbTZJK8PNXhKQ=</DigestValue>
+</Reference>
+<Reference URI="img%2Fcoffee.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FcoFmOk1t4m9w3gMIEcnoJolpYZcO3015Pi4kCxOSys=</DigestValue>
+</Reference>
+<Reference URI="img%2Fglass-mug.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8NEV4bJwj4UwHg3yCkLCpgdFjcbdKemCFL1pWUoz4u0=</DigestValue>
+</Reference>
+<Reference URI="img%2Fheart-rate.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LgSPKjMxXU+xSPnJvT8zUsk8N1CLosS5dlqraWgU73U=</DigestValue>
+</Reference>
+<Reference URI="img%2Fheart.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nlZxJlWW2rkdstvI9rnge9pMikzPJbZrf/Y/lr6VzZg=</DigestValue>
+</Reference>
+<Reference URI="img%2Fic_heart.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7kMaXvvzmc8Sc6OtJ5MKjGJJML4yZKSERLb31LijPgY=</DigestValue>
+</Reference>
+<Reference URI="img%2Fsetapp.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/o6UYaCzcBvI4/rIUMICYZzM0CP5rgqiTakLAO6o12k=</DigestValue>
+</Reference>
+<Reference URI="img%2Fsugar.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZzjaOC+3AdXSlZ0Ao+vOWcSkh5on0VjeM890a8rvhVU=</DigestValue>
+</Reference>
+<Reference URI="img%2Fwalk.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qfhY/L1r/b4aMNCPb+ODg+THVus7V3prnxiLfc7C+qg=</DigestValue>
+</Reference>
+<Reference URI="img%2Fwalk.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eqzLIWYOsg/UKnaoIrPPCb3MWcJp1Q7vvVw8lfzPMUg=</DigestValue>
+</Reference>
+<Reference URI="index.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DX7DLz0XfUmuEDTCUFCmG0ouud7XxoPt3FpkNTVS/00=</DigestValue>
+</Reference>
+<Reference URI="index.html%7E">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Or6cOgdKY07DWT/2sU5pZpPWg7eCqPWoNjUpXjR0iEE=</DigestValue>
+</Reference>
+<Reference URI="js%2Fjquery.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7LkWEzqTdpEfELxcZZlS6wAx5Ff13zZ83lYO2/ujj7g=</DigestValue>
+</Reference>
+<Reference URI="js%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LT+DeKEDNrTcjQTa780dLYS280LYI3cqIM2/GjmOrZc=</DigestValue>
+</Reference>
+<Reference URI="js%2Fmaps%2Fswiper.jquery.min.js.map">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>P4XWo9TvExqrThE4FL5xoU6ucGdZbtRm1s3ZCyMnizM=</DigestValue>
+</Reference>
+<Reference URI="js%2Fmaps%2Fswiper.jquery.umd.min.js.map">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hXGUc67/9PI56MkzyU1a7Pf01XZFLCgvrHh4dHOnpS8=</DigestValue>
+</Reference>
+<Reference URI="js%2Fmaps%2Fswiper.min.js.map">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sreBnBjWUXZakkOYvaK3MNOlFOdffDhJy4dT691C6Z8=</DigestValue>
+</Reference>
+<Reference URI="js%2Fswiper.jquery.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vxjtSguJwVUA98QH/Bkv0r0UurSc8t2TotGFwY/SuFk=</DigestValue>
+</Reference>
+<Reference URI="js%2Fswiper.jquery.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uKNdywO7duD6/zTvDtQDHoCbR/yT4gitCVRh6FFtZj8=</DigestValue>
+</Reference>
+<Reference URI="js%2Fswiper.jquery.umd.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bVjJUmMyavX+p2D3xXGl5gN5iZrPqgIaxrPiZAfGTOY=</DigestValue>
+</Reference>
+<Reference URI="js%2Fswiper.jquery.umd.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sdpZP2dnRAmzDKWteGtpHFHOSpZ1A1WK+z6ZzK2pnuI=</DigestValue>
+</Reference>
+<Reference URI="js%2Fswiper.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mLsoopGR4xc+NO6smuBqM0MdOArBSXZ8kFndCRfoMjk=</DigestValue>
+</Reference>
+<Reference URI="js%2Fswiper.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>W+d5i1ipCjbC0fhxNeEoKxZdzZVft9SRTzb4AUHIRBQ=</DigestValue>
+</Reference>
+<Reference URI="js%2Ftau.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4DKH/g/V0cDYlQlnOrmb/bajtpXBcM35SoNP3eHnPak=</DigestValue>
+</Reference>
+<Reference URI="page-1.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IchDwX0biMGJTphCrvO6mg6qPys7RRhtP3zrwEV+vNg=</DigestValue>
+</Reference>
+<Reference URI="page-2.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>y3lEc6obUtvC0jm0fHD9YSI5uChYwFRv3ugcgKZivRI=</DigestValue>
+</Reference>
+<Reference URI="page-3.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>chK0BiRR9nRU6HMk5m3cYN/v5S9cERnSHUa1GTPjTWM=</DigestValue>
+</Reference>
+<Reference URI="page-4.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Iap9kBDKLNojsOXmyjccP/Vb0U0P58DZDgQEvNZ7lA4=</DigestValue>
+</Reference>
+<Reference URI="page-5-success.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YI5q+x0iYVOo1XMEEeKqVHx2tVjxqtYb2+1+d0PsoPY=</DigestValue>
+</Reference>
+<Reference URI="page-5.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>y18y2V/hgxj3CTUaa9FL1pWPN6zoYe0it/K0Zkwzwjk=</DigestValue>
+</Reference>
+<Reference URI="page-6-success.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tVNYhwzcLhR8f2YaLKdLxzu5Mt5YsZUXSQJiR73nq2k=</DigestValue>
+</Reference>
+<Reference URI="page-6.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>a0zVd550iEStZ+K4HevdT2DN+iGJF467U503TfO6aRo=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_background.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4ldJX95mmVaDFGqfC8bVkPbwuX6KZ4n072OjqCDP8aQ=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_box-shadow.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AjSxzzYOzoqsVf24OdkVjmMI6Qt3k1mIK+CNQbJ4dpM=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_color.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UDH0VOqoFY2oVg9Ytc8JV7LPlldXf/V/f+WtUPkDjcE=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_flexbox.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pAvzwXP11tUjOUxLOGdas8krR1+2CpOotv1u2NZg3s8=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_font-color.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>b6bzDgixbwXYNdAC86xzTHQSqZFdfN0koLl2NBVmJOs=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_font-roboto.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XjaqdaCK3MkAl92RoGvzmW+KTzMPIhw1E41mEcKSo8s=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_mixins.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VkaOudGwM07t46PlWBVBgDJOtN9eSks50BLkCSnih2E=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_normalize.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e0C5xwVkQ9MlwDxYP8gOj/xDi/Yj/JhVqFRdlMfKJ6Y=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_paper.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>a8PPKHxv7l8PnMlJwmViKxqoGl7AfKL3bEx9aoKF4K4=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_position.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AHuVc236XD9maiJhBqLF81R7O3r1fTDH1xu3OWkHF/c=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_ripple.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8hyc1Nqu1K43luiazeP+nOLbNAaYwHMU095BAOqmYf8=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_theme.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gtJZ1dqO4i3envWmLg9HVPeoXhQ3qgk7/y88uH6nd9g=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_typography.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UgPAcUvxanBg8ccg9Dd7kGl4LY+ZvMLFWKeDc53WiHc=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_ui.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>x6rEJ51UChBwErYsc1TqnlNhuIZiPDAGWrXAv1ybnrY=</DigestValue>
+</Reference>
+<Reference URI="scss%2F_webkit-fix.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hbciJlwoHOzIlWOkFnfhhCy0BFiKeU2yV7an6kYXL30=</DigestValue>
+</Reference>
+<Reference URI="scss%2Fmaterialdesignicons.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p/PolbRhP8wcl2mEn64DLsCFIiXczTD+pS65y/IKSkY=</DigestValue>
+</Reference>
+<Reference URI="scss%2Fmdi%2F_core.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4LDHzOIcWOXDh7ICREHFJ3zqDQdpRthQh11qL6IqGLQ=</DigestValue>
+</Reference>
+<Reference URI="scss%2Fmdi%2F_icons.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AC4KTDHAFMCICJTZ3fNw4/UNrLuguzEuu7cJ+YnIiCE=</DigestValue>
+</Reference>
+<Reference URI="scss%2Fmdi%2F_path.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oEPKRrxyvvciJ+VR4/4ATpBRpB4gy5HQQRdDNH1LnFk=</DigestValue>
+</Reference>
+<Reference URI="scss%2Fmdi%2F_variables.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5dPfXXt/1wC1/64Fxjozwa89Fkwb/EKFlXKR2kMxdI0=</DigestValue>
+</Reference>
+<Reference URI="scss%2Fsmartwatch.scss">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yRQsBGRaPnpF/vv+1uEMiCLCekcZ/SK+f1XtuVgNSWA=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u/jU3U4Zm5ihTMSjKGlGYbWzDfRkGphPPHx3gJIYEJ4=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+NH36FiTSniWvnufkunRWmA2Ua7XBb/qL6ws537MSAdIY4xOraqH6rmdtd1TcluQgT1BXHxRVz/X1
+6/BQPuJXacCznfyPqTs8M+UlDP0ZxN3V+ZcfSwVYe7q9O4demoRaqLf5PkYEMIvgbKbz770wupxe
+9aQc38eQMWKvt20aVJM=
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIICmzCCAgQCCQDXI7WLdVZwiTANBgkqhkiG9w0BAQUFADCBjzELMAkGA1UEBhMCS1IxDjAMBgNV
+BAgMBVN1d29uMQ4wDAYDVQQHDAVTdXdvbjEWMBQGA1UECgwNVGl6ZW4gVGVzdCBDQTEiMCAGA1UE
+CwwZVGl6ZW4gRGlzdHJpYnV0b3IgVGVzdCBDQTEkMCIGA1UEAwwbVGl6ZW4gUHVibGljIERpc3Ry
+aWJ1dG9yIENBMB4XDTEyMTAyOTEzMDMwNFoXDTIyMTAyNzEzMDMwNFowgZMxCzAJBgNVBAYTAktS
+MQ4wDAYDVQQIDAVTdXdvbjEOMAwGA1UEBwwFU3V3b24xFjAUBgNVBAoMDVRpemVuIFRlc3QgQ0Ex
+IjAgBgNVBAsMGVRpemVuIERpc3RyaWJ1dG9yIFRlc3QgQ0ExKDAmBgNVBAMMH1RpemVuIFB1Ymxp
+YyBEaXN0cmlidXRvciBTaWduZXIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALtMvlc5hENK
+90ZdA+y66+Sy0enD1gpZDBh5T9RP0oRsptJv5jjNTseQbQi0SZOdOXb6J7iQdlBCtR343RpIEz8H
+mrBy7mSY7mgwoU4EPpp4CTSUeAuKcmvrNOngTp5Hv7Ngf02TTHOLK3hZLpGayaDviyNZB5PdqQdB
+hokKjzAzAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAvGp1gxxAIlFfhJH1efjb9BJK/rtRkbYn9+Ez
+GEbEULg1svsgnyWisFimI3uFvgI/swzr1eKVY3Sc8MQ3+Fdy3EkbDZ2+WAubhcEkorTWjzWz2fL1
+vKaYjeIsuEX6TVRUugHWudPzcEuQRLQf8ibZWjbQdBmpeQYBMg5x+xKLCJc=
+</X509Certificate>
+<X509Certificate>
+MIICtDCCAh2gAwIBAgIJAMDbehElPNKvMA0GCSqGSIb3DQEBBQUAMIGVMQswCQYDVQQGEwJLUjEO
+MAwGA1UECAwFU3V3b24xDjAMBgNVBAcMBVN1d29uMRYwFAYDVQQKDA1UaXplbiBUZXN0IENBMSMw
+IQYDVQQLDBpUVGl6ZW4gRGlzdHJpYnV0b3IgVGVzdCBDQTEpMCcGA1UEAwwgVGl6ZW4gUHVibGlj
+IERpc3RyaWJ1dG9yIFJvb3QgQ0EwHhcNMTIxMDI5MTMwMjUwWhcNMjIxMDI3MTMwMjUwWjCBjzEL
+MAkGA1UEBhMCS1IxDjAMBgNVBAgMBVN1d29uMQ4wDAYDVQQHDAVTdXdvbjEWMBQGA1UECgwNVGl6
+ZW4gVGVzdCBDQTEiMCAGA1UECwwZVGl6ZW4gRGlzdHJpYnV0b3IgVGVzdCBDQTEkMCIGA1UEAwwb
+VGl6ZW4gUHVibGljIERpc3RyaWJ1dG9yIENBMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDe
+OTS/3nXvkDEmsFCJIvRlQ3RKDcxdWJJp625pFqHdmoJBdV+x6jl1raGK2Y1sp2Gdvpjc/z92yzAp
+bE/UVLPh/tRNZPeGhzU4ejDDm7kzdr2f7Ia0U98K+OoY12ucwg7TYNItj9is7Cj4blGfuMDzd2ah
+2AgnCGlwNwV/pv+uVQIDAQABoxAwDjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBACqJ
+KO33YdoGudwanZIxMdXuxnnD9R6u72ltKk1S4zPfMJJv482CRGCI4FK6djhlsI4i0Lt1SVIJEed+
+yc3qckGm19dW+4xdlkekon7pViEBWuyHw8OWv3RXtTum1+PGHjBJ2eYY4ZKIpz73U/1NC16sTB/0
+VhfnkHwPltmrpYVe
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#DistributorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#DistributorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-distributor"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#DistributorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>

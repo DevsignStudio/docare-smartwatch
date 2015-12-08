@@ -1,0 +1,307 @@
+.circle-ui{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 50%;
+    background-color: #ffffff;
+    position: relative;
+
+    .circle-background {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        @include transform(translate(-50%, -50%));
+
+        .mdi {
+            &:before {
+                font-size: 190px;
+            }
+        }
+    }
+    & .circle-ui-inner {
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        position: relative;
+        background-color: $color-blue;
+        padding: 50px;
+
+        .circle-ui-inner-header {
+            color: $color-white;
+            font-size: 16px;
+            text-transform: uppercase;
+            text-align: center;
+            margin: 0 auto;
+            max-width: 58.5%;
+            line-height: 20px;
+        }
+
+            .circle-ui-inner-header-headline {
+                color: $color-white;
+                font-size: 30px;
+                text-align: center;
+                line-height: 25px;
+                margin: 0 auto;
+                font-weight: 5 bold;
+
+                strong {
+                    font-weight: 100 bold;
+                }
+
+                small {
+                    display: block;
+                    font-size: 16px;
+                }
+            }
+
+        .circle-ui-inner-content {
+            color: $color-white;
+            font-size: 20px;
+            text-align: center;
+            line-height: 25px;
+            margin-top: 100px;
+
+            .circle-ui-inner-content-contentline {
+                color: $color-white;
+                font-size: 70px;
+                text-align: center;
+                line-height: 17px;
+                margin-top: 5px;
+
+                .contentline {
+                    font-weight: 10 bold;
+                    font-size: 35px;
+                    text-align: center;
+                    margin-top: 30px;
+                }
+              }
+            }
+
+        .circle-ui-inner-big-icon {
+            text-align: center;
+            margin-top: 30px;
+            .mdi{
+                color: $color-blue-300;
+                &:before{
+                    font-size: 170px;
+                }
+            }
+
+            .circle-ui-inner-big-icon-description {
+                font-size: 24px;
+                line-height: 28px;
+                font-weight: 500;
+                color: $color-white;
+            }
+        }
+    }
+
+    .circle-ui-bottom {
+        position: absolute;
+        bottom: -75%;
+        width: 100%;
+        height: 100%;
+        background-color: $color-blue-700;
+        @include border-radius(50%);
+        .circle-ui-bottom-icon{
+            position: absolute;
+            top: 4%;
+            left: 50%;
+            display: block;
+            @include transform(translateX(-50%));
+            .mdi{
+                color: $color-blue-300;
+                &:before{
+                    font-size: 56px;
+
+                }
+            }
+        }
+    }
+
+    & .circle-ui-border {
+        width: 90%;
+        height: 90%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        @include transform(translate(-50%, -50%));
+        border-radius: 50%;
+        border: 2px solid $color-blue-700;
+
+    }
+
+    &.theme-0 {
+        & .circle-ui-inner {
+            background-color: $color-indigo-900;
+        }
+
+
+
+        .circle-ui-bottom {
+            background: $color-blue-grey-800;
+
+            .circle-ui-bottom-icon{
+                .mdi{
+                    color: $color-blue-grey-500;
+                }
+            }
+        }
+    }
+
+    &.theme-1 {
+        & .circle-ui-inner {
+            background-color: $color-blue-grey-900;
+        }
+
+        & .circle-ui-border {
+            border-color: $color-blue-grey-800;
+        }
+
+        .circle-ui-bottom {
+            background: $color-blue-grey-800;
+
+            .circle-ui-bottom-icon{
+                .mdi{
+                    color: $color-blue-grey-500;
+                }
+            }
+        }
+    }
+
+    &.theme-2 {
+        & .circle-ui-inner {
+            background-color: $color-pink-500;
+        }
+
+        & .circle-ui-border {
+            border-color: $color-pink-300;
+        }
+
+        .circle-ui-bottom {
+            background: $color-pink-300;
+            .circle-ui-bottom-icon{
+                .mdi{
+                    color: $color-purple-100;
+                }
+            }
+        }
+    }
+
+    &.theme-3 {
+        & .circle-ui-inner {
+            background-color: $color-deep-purple-800;
+        }
+
+        & .circle-ui-border {
+            border-color: $color-deep-purple-600;
+        }
+
+        & .circle-ui-bottom {
+            background: $color-deep-purple-600;
+            & .circle-ui-bottom-icon{
+                .mdi{
+                    color: $color-purple-100;
+                }
+            }
+        }
+    }
+
+    &.theme-4 {
+        & .circle-ui-inner {
+            background-color: $color-red-900;
+        }
+
+        & .circle-ui-border {
+            border-color: $color-red-600;
+        }
+
+        & .circle-ui-bottom {
+            & .circle-ui-bottom-icon{
+                .mdi{
+                    color: $color-purple-100;
+                }
+            }
+        }
+    }
+
+    &.theme-5 {
+        & .circle-ui-inner {
+            background-color: $color-purple-800;
+        }
+
+
+        & .circle-ui-border {
+            border-color: $color-purple-A400;
+        }
+
+        .circle-ui-bottom {
+            background: $color-purple-A400;
+            .circle-ui-bottom-icon{
+                .mdi{
+                    color: $color-purple-100;
+                }
+            }
+        }
+    }
+
+    &.theme-5-success {
+        & .circle-ui-inner {
+            background-color: $color-purple-800;
+        }
+
+
+        & .circle-ui-border {
+            border-color: $color-purple-A400;
+        }
+
+        .circle-ui-bottom {
+            background: $color-purple-A400;
+            .circle-ui-bottom-icon{
+                .mdi{
+                    color: $color-purple-100;
+                }
+            }
+        }
+    }
+
+    &.theme-6 {
+        & .circle-ui-inner {
+            background-color: $color-teal-700;
+        }
+
+        & .circle-ui-border {
+            border-color: $color-teal-500;
+        }
+
+        .circle-ui-bottom {
+            background: $color-teal-500;
+            .circle-ui-bottom-icon{
+                .mdi{
+                    color: $color-purple-100;
+                }
+
+            }
+        }
+    }
+
+    &.theme-6-success {
+        & .circle-ui-inner {
+            background-color: $color-teal-700;
+        }
+
+
+        & .circle-ui-border {
+            border-color: $color-teal-500;
+        }
+
+        .circle-ui-bottom {
+            background: $color-teal-500;
+            .circle-ui-bottom-icon{
+                .mdi{
+                    color: $color-purple-100;
+                }
+            }
+        }
+    }
+}
